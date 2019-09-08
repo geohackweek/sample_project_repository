@@ -9,7 +9,7 @@ This is as an example on how teams can structure their project repositories.
 * `environment.yml`
 <br> `conda` environment description needed to run this project.
 * `README.md`
-<br> Description of the project. [Sample]()
+<br> Description of the project. [Sample](https://geohackweek.github.io/wiki/github_project_management.html#project-guidelines)
 
 ## Folders
 
